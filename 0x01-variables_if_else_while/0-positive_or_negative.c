@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (success)
  */
@@ -30,5 +30,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
-
 }
